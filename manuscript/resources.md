@@ -22,3 +22,16 @@ What other websites are there to consult about Bohmian mechanics?
 
 Any advice for those that wish to promote and support Bohmian mechanics?
 
+So you want to argue the case for Bohmian mechanics? Well, here are some thoughts and advice on how to do that.
+
+* Relax about it. It is unlikely that you will ever convince anyone. The result either will be “You can’t say that!” or “Sounds nice, but there must be something wrong with it otherwise the physics community would embrace it.” Seriously. You are not going to win an argument.
+
+* Still here? Wow, you are a glutton for punishment. First, find out what they know about quantum mechanics and/or Bohmian mechanics. Do they think it is impossible? Are they completely ignorant? Do they believe that only really smart geniuses can understand quantum mechanics? Do they love momentum? Answers to these questions will guide your path in working with them.
+
+* Remember, Bohmian mechanics is really simple. You can get them to derive the equations on their own. It really is that simple.
+
+* Assure them that there are mathematical results for existence, uniqueness, agreement, extensions to whatever phenomena, etc.
+
+* Relativity and nonlocality is a hard issue since nonlocality is present in Bohmian mechanics. It is present in quantum field theory too. But they ignore it because they focus on covariance, not on actual relativistic concerns. If their theories are local and have results of measurements, then those theories are wrong.
+
+* More to come. Some to be removed.
