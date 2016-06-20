@@ -35,3 +35,5 @@ standard.md
 grw.md
 everett.md
 decoherence.md
+resources.md
+faq.md
