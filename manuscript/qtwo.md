@@ -1,4 +1,4 @@
-Quantum Theory Without Observers
+# Quantum Theory Without Observers
 
 What is this business about observers? What are the other quantum theories without observers? How do they compare to each other? Why should we care?
 
