@@ -29,7 +29,7 @@ status.md
 criticisms.md
 nohv.md
 bell.md
-theories.md
+qtwo.md
 ontology.md
 standard.md
 grw.md
