@@ -1,9 +1,13 @@
 introduction.md
 a-gentle-introduction.md
-mathematical-characters.md
+basics.md
 one-dimensional.md
-higher-dimensions.md
+three-dimensions.md
+multiple-particles.md
 spin.md
+chemistry.md
+dirac.md
+qft.md
 formalism.md
 qeh.md
 operators.md
@@ -35,5 +39,7 @@ standard.md
 grw.md
 everett.md
 decoherence.md
-resources.md
+appendices.md
+mathematical-characters.md
 faq.md
+resources.md
