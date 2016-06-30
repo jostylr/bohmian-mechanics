@@ -16,6 +16,8 @@ In Bohmian mechanics, this is not true. Wavefunctions are functions on the confi
 
 So we need to be comfortabl with `\psi(q_1, q_2, q_3, \ldots, q_n)`$ as something fundamental. The Fourier transform of `\psi`$ may be helpful in solving the equations, but it is not relevant in the formulation of the theory. Ultimately, we want a velocity field on configuration space.  
 
+The wavefunctions are also elements of the usual Hilbert space of square-integrable wavefunctions. Much of the analysis of the theory relies on it. While presumably one could explore other functions, the analysis becomes less certain and there seems to be no physical reason to pursue it. 
+
 ## Wavefunction of a Subsystem
 
 In typical quantum presentations, small systems are presented that end up getting entangled. But fundamentally, there are no small systems. There is only the universal wavefunction governing the whole of the universe's particles. This is what is in the theory itself. 
@@ -35,12 +37,21 @@ That is `\Psi`$, the universal wavefunction is preeminent and `\psi`$, the subsy
 
 ## Probability
 
-The probability of finding a configuration of a subsystem with wavefunction 
+The probability of finding a configuration of a subsystem with wavefunction `\psi`$ is given by the density `|\psi|^2 (q) dq`$.  From this, all the results of standard quantum mechanics follows. 
 
+The important point of note is that this is not an assumption. This is a deduction based on typicality arguments. That is, for a typical configuration of the universe, an appropriate subsystem will have this property that we call the Quantum Equilibrium Hypothesis. 
+
+Typicality is measured with respect to the density `|\Psi|^2`$. This needs explaining as we do later. But for now, we take it as a basic assumption the QEH holds. 
 
 ## Operators
 
+Along with subsystems having the correct probability, we also have standard quantum Observables. These are mathematically represented, in its simplest form, as self-adjoint linear operators acting on the Hilbert space of wavefunctions. 
+
+The standard rules imply that wavefunctions collapse into eigenstates of those operators when a corresponding measurement is made. These rules and an understanding of why this occurs is made explicit in an analysis of Bohmian mechanics as we do later in the book. 
+
+For now, all the usual rules do apply though we will generally be concerned with the evolution of the subsystem rather than a measurement of it. The Hamiltonian, while it is an Observable, has a special role not because of that, but rather because it is the heart of the evolution. 
+
 ## The Equations
 
-
+guiding equation, schrodinger equation,  and dirac-bohm model. 
 
