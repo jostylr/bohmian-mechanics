@@ -25,3 +25,7 @@ The lack of trajectories in quantum mechanics leads to identical particles, yes?
 ### Creation and Annihilation of Particles
 
 Can we model the creation and annihilation of particles in Bohmian mechanics? How can we have a wave function of indeterminate number of particles? Is not the randomness of the creation of particles anathema?
+
+### Quantum Field Theories
+
+Something else about the field theories? 
