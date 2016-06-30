@@ -35,3 +35,5 @@ which is in fact Bohm’s equation when we take only the real part for a non-pla
 By decomposing the wave function into `\psi = R e^{i S}`$, the polar form, Schrödinger’s equation becomes the continuity equation, used in the probability current, and a Hamilton-Jacobi equation with an extra potential term involving R. This is the quantum potential. This is a second-order formulation of Bohm’s equation which only gives the correct prediction if the initial velocities are given by Bohm’s equation.
 
 This is the derivation Bohm used.
+
+## Square-root of the wavefunction.
