@@ -36,4 +36,4 @@ By decomposing the wave function into `\psi = R e^{i S}`$, the polar form, Schr√
 
 This is the derivation Bohm used.
 
-## Square-root of the wavefunction.
+## Square-root of the Tangent Space
