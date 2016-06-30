@@ -1,4 +1,4 @@
-# Quantum Formalism
+-# Quantum Formalism
 
 What is the quantum formalism, precisely, and how does it follow from Bohmian mechanics?
 
