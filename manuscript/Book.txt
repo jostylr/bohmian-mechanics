@@ -1,5 +1,6 @@
 introduction.md
 a-gentle-introduction.md
+brief-formalism.md
 basics.md
 one-dimensional.md
 three-dimensions.md
@@ -25,7 +26,7 @@ analysis.md
 existence.md
 scattering.md
 tools.md
-usage.md
+trajectories.md
 newton.md
 background.md
 history.md
