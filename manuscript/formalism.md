@@ -1,4 +1,4 @@
--# Quantum Formalism
+# Quantum Formalism #
 
 What is the quantum formalism, precisely, and how does it follow from Bohmian mechanics?
 
@@ -12,22 +12,22 @@ The key to all of this is to understand the difference between a system under co
 
 Equivariance, which is the preservation of $$|\psi|^2$$ probability under the particle evolution, is the central mathematical fact governing the results.
 
-## Quatum Equilibrium Hypothesis
+### Quatum Equilibrium Hypothesis
 
 Why do we demand that the particles are distributed according to $$|\psi^2$$? What does that mean for a deterministic theory?
 
-## Operators as Observables
+### Operators as Observables
 
 A quantum measurement is nicely summarized by operators acting on the space of wave functions. Why? Why do eigenvalues appear as results? What does that even mean?
 
-## Collapse of the Wave Function
+### Collapse of the Wave Function
 
 Schrodinger’s equation never collapses the wave function, but yet we see what looks like a collapse of the wave function into eigenstates of the operators. How can this arise from Bohmian mechanics? Why is the probability distribution of the results $$|\psi|^2$$?
 
-## Examples of Quantum Measurements 
+### Examples of Quantum Measurements 
 
 What do momentum “measurements” measure in Bohmian mechanics? What about spin measurements? How do the eigenvalues of the Hamiltonian get revealed by the dynamics of the particles? What happens in the ground state?
 
-## The Uncertainty Principle
+### The Uncertainty Principle
 
 In a perfectly deterministic theory, what role does uncertainty have? How can there be an absolute limit to our knowledge when the model gives us a precise evolution?
