@@ -1,4 +1,4 @@
-# Quantum Theory Without Observers
+# Quantum Theory Without Observers #
 
 What is this business about observers? What are the other quantum theories without observers? How do they compare to each other? Why should we care?
 
@@ -10,19 +10,23 @@ John Bell in “Quantum mechanics for cosmologists” (Speakable and unspeakable
 
 Bohmian mechanics is one theory that satisfies the need to avoid measurement and observers in the formulation of the theory. But there are others.
 
-## Ontology
+### Ontology
 
 What is the theory about? Decide this before equations and deductions are made.  What is the ontology of Bohmian mechanics?
 
-## GRW and Spontaneous Collapse
+### Standard
+
+What is the standard accepted version of QM? 
+
+### GRW and Spontaneous Collapse
 
 Can we modify the wave evolution so that collapse is occurring independently of measurement? What is the ontology of such a theory?
 
-## Everett and Many Worlds
+### Everett and Many Worlds
 
 Is it possible not to collapse the wave function and to avoid using particles with positions? What is the ontology of such a theory?
 
-## Decoherent Histories
+### Decoherent Histories
 
 How much can we do with focusing on theories as information? What is the ontology of such a theory?
 
