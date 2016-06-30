@@ -1,4 +1,4 @@
-# Foundations
+-# Foundations
 
 Bohmian mechanics is easily derived from a variety of directions. It can be extended in many directions. And it explains many basic tenets of quantum mechanics which are otherwise obscure.
 
