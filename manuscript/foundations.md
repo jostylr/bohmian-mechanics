@@ -6,22 +6,22 @@ The basic idea that runs through the quantum formalism and Bohmian mechanics is 
 
 When searching for extensions to the theory, we use that to write down generalizations of the simple Bohmian motion. We should also note that as the probability current is all that matters, any motion which does preserve that current (and there are multiple ones) would be fine to use. Indeed, the non-relativistic limit of the Bohm-Dirac motion leads to a slightly different law of motion than the one presented here.
 
-## Derivations of Bohmian Mechanics
+### Derivations of Bohmian Mechanics
 
 Where does Bohmian mechanics come from? Is it contrived or is it natural?
 
-## Recnciling Relativity and Bohmian Mechanics 
+### Reconciling Relativity and Bohmian Mechanics 
 
 Bohmian mechanics is a nonlocal theory; how does that work with relativity?
 
-## Generalizations of Bohmian Mechanics
+### Generalizations of Bohmian Mechanics
 
 How is spin dealt with? Quantum mechanics has issues with generalizations to manifolds; does Bohmian mechanics?
 
-## Identical Particles
+### Identical Particles
 
 The lack of trajectories in quantum mechanics leads to identical particles, yes? How can that be compatible with Bohmian mechanics?
 
-## Creation and Annihilation of Particles
+### Creation and Annihilation of Particles
 
 Can we model the creation and annihilation of particles in Bohmian mechanics? How can we have a wave function of indeterminate number of particles? Is not the randomness of the creation of particles anathema?
