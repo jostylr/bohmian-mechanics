@@ -4,6 +4,8 @@ We will start with a refreshing journey over typical topics in an introductory q
 
 ## Free Particle
 
+Two gaussian packets, speeding away with a slower one being overtaken. The particles switch packets in one dimension. A measurement of momentum (distance from center)/time would lead to the momentums being given the wrong attribution at the beginning. Measurements need to be understood as to what they are really measuring.   
+
 ## Harmonic Oscillator
 
 ## Square Wells
@@ -13,4 +15,3 @@ We will start with a refreshing journey over typical topics in an introductory q
 ## 1-D Scattering
 
 ## Tunneling
-
