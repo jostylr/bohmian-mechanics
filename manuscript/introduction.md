@@ -20,8 +20,14 @@ by the usual quantum wave function.
 
 As a simple starting point, let’s say we have NN particles moving in `\mathbb{R}^3`$.
 Then the configuration of the system is `Q \in \mathbb{R}^{3N}`$.  The wave function
-is `\psi : \mathbb{R^{3N}} \times \mathbb{R} \to \mathbb{C}`$. The equations are
+is `\psi : \mathbb{R}^{3N} \times \mathbb{R} \to \mathbb{C}`$. The equations are
 
+```$ 
+\begin{align*}
+\frac{d Q_k}{dt} &= \frac{\hbar}{m_k} \mathrm{Im} \frac{\nabla \psi}{\psi} (Q, t) \\
+i \hbar \frac{ \partial \psi}{\partial t} &=  -\sum_{j=1}^{N} \frac{\hbar^2}{2m_j} \Delta \psi(q, t) + V(q) \psi(q,t) \\ 
+\end{align*}
+```
 
 where `m_k`$ represents the mass of the `k`$th particle, `Q_k`$ represents the
 actual position of the `k`$th particle, `q`$ is a generic configuration point
