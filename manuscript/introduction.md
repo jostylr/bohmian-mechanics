@@ -1,24 +1,44 @@
 # Introduction to Bohmian Mechanics
 
-Bohmian mechanics is the infamous theory of quantum theory that is readily understood, easy to analyze, and in complete agreement with the predictions of quantum mechanics.
+Bohmian mechanics is the infamous theory of quantum theory that is readily
+understood, easy to analyze, and in complete agreement with the predictions of
+quantum mechanics.
 
-At this site, we will explore what this theory is, how it solves many problems, the challenges yet to be overcome, and why it is rejected by the mainstream physics community when, in fact, it solves the most bedeviling problems in the most obvious and ordinary of ways.
+At this site, we will explore what this theory is, how it solves many
+problems, the challenges yet to be overcome, and why it is rejected by the
+mainstream physics community when, in fact, it solves the most bedeviling
+problems in the most obvious and ordinary of ways.
 
-For nontechnical readers, try the gentle introduction to Bohmian mechanics. This is also a great introduction to quantum mechanics without the mysticism.
+For nontechnical readers, try the gentle introduction to Bohmian mechanics.
+This is also a great introduction to quantum mechanics without the mysticism.
 
 ## What is Bohmian Mechanics? 
 
-In short, it is a quantum theory of motion concerning particles. Each particle has a position at all times and the evolution of those positions is governed by the usual quantum wave function.
+In short, it is a quantum theory of motion concerning particles. Each particle
+has a position at all times and the evolution of those positions is governed
+by the usual quantum wave function.
 
-As a simple starting point, let’s say we have NN particles moving in $$\R^3$$. Then the configuration of the system is $$Q \in \R^{3N}$$.  The wave function is $$\psi : \R^{3N} \times \R \to \C$$. The equations are
+As a simple starting point, let’s say we have NN particles moving in `\R^3`$.
+Then the configuration of the system is `Q \in \R^{3N}`$.  The wave function
+is `\psi : \R^{3N} \times \R \to \C`$. The equations are
 
-$$ 
-\begin{aligned}\frac{d Q_k}{dt} &amp; =  \frac{\hbar}{m_k} \mathrm{Im} \frac{\nabla \psi}{\psi} (Q, t) \\i \hbar \frac{ \partial \psi}{\partial t} &amp; =  -\sum_{j=1}^{N} \frac{\hbar^2}{2m_j} \Delta \psi(q, t) + V(q) \psi(q,t) \\ \end{aligned}
-$$
+```$ 
+\begin{aligned}
+\frac{d Q_k}{dt} &= \frac{\hbar}{m_k} \mathrm{Im} \frac{\nabla \psi}{\psi} (Q, t) \\
+i \hbar \frac{ \partial \psi}{\partial t} &=  -\sum_{j=1}^{N} \frac{\hbar^2}{2m_j} \Delta \psi(q, t) + V(q) \psi(q,t) \\ 
+\end{aligned}
+```
 
-where $$m_k$$ represents the mass of the $k$th particle, $$Q_k$$ represents the actual position of the $$k$$th particle, $$q$$ is a generic configuration point in $$\R^{3N}$$, and $$\mathrm{Im}$$ represents taking the imaginary part of the given expression.
+where `m_k`$ represents the mass of the `k`$th particle, `Q_k`$ represents the
+actual position of the `k`$th particle, `q`$ is a generic configuration point
+in `\R^{3N}`$, and `\mathrm{Im}`$ represents taking the imaginary part of the
+given expression.
 
-These are the equations of motion. If the initial conditions are distributed according to $$|\psi|^2$$,  then the quantum formalism and all of its predictions, do follow from this theory. This assumption is known as the quantum equilibrium hypothesis and it can be argued that it is requiring that the initial conditions are typical.
+These are the equations of motion. If the initial conditions are distributed
+according to `\psi|^2`$,  then the quantum formalism and all of its
+predictions, do follow from this theory. This assumption is known as the
+quantum equilibrium hypothesis and it can be argued that it is requiring that
+the initial conditions are typical.
 
 All else that follows is from analysis, not further assumptions.
 
@@ -58,5 +78,3 @@ All else that follows is from analysis, not further assumptions.
 	- Relevant books to Bohmian mechanics
 	- Various websites on Bohmian mehcanics
 	- Advice for debaters in support of Bohmian mechanics
-* Blog: Current events in Bohmian mechanics, reviews of articles/books, and speculative ideas
-* About this website
