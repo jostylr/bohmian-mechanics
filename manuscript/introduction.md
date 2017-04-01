@@ -18,14 +18,14 @@ In short, it is a quantum theory of motion concerning particles. Each particle
 has a position at all times and the evolution of those positions is governed
 by the usual quantum wave function.
 
-As a simple starting point, let’s say we have NN particles moving in `R^3`$.
-Then the configuration of the system is `Q \in R^{3N}`$.  The wave function
-is `\psi : R^{3N} \times R \to C`$. The equations are
+As a simple starting point, let’s say we have NN particles moving in `\mathbb{R}^3`$.
+Then the configuration of the system is `Q \in \mathbb{R}^{3N}`$.  The wave function
+is `\psi : \mathbb{R^{3N}} \times \mathbb{R} \to \mathbb{C}`$. The equations are
 
 
 where `m_k`$ represents the mass of the `k`$th particle, `Q_k`$ represents the
 actual position of the `k`$th particle, `q`$ is a generic configuration point
-in `R^{3N}`$, and `\mathrm{Im}`$ represents taking the imaginary part of the
+in `\mathbb{R}^{3N}`$, and `\mathrm{Im}`$ represents taking the imaginary part of the
 given expression.
 
 These are the equations of motion. If the initial conditions are distributed
