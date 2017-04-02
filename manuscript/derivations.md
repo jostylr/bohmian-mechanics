@@ -24,7 +24,7 @@ For second-order differential operators and lower, this approach works and agree
 ## De Broglie Relations
 
 We can derive Bohm’s equation the same way we derive Schrödinger’s equation. The relation
-`p = \hbar k`$  for a plane wave of the form `\psi(q, t) = e^{i(k  q \omega t)}`$ suggests
+`p = \hbar k`$  for a plane wave of the form `\psi(q, t) = e^{i(k \cdot q \omega t)}`$ suggests
 
 ```$
 m v = p = \hbar k = \frac{\hbar}{i} \frac{\nabla \psi}{\psi}
