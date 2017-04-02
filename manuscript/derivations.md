@@ -23,7 +23,14 @@ For second-order differential operators and lower, this approach works and agree
 
 ## De Broglie Relations
 
-Wewhich is in fact Bohm’s equation when we take only the real part for a non-plane wave function. That’s it. Schrödinger’s equation is actually more complicated.
+We can derive Bohm’s equation the same way we derive Schrödinger’s equation. The relation
+`p = \hbar k`$  for a plane wave of the formsuggests
+
+```$
+m v = p = \hbar k = \frac{\hbar}{i} \frac{\nabla \psi}{\psi}
+```
+
+which is in fact Bohm’s equation when we take only the real part for a non-plane wave function. That’s it. Schrödinger’s equation is actually more complicated.
 
 ## Hamilton-Jacobi
 
