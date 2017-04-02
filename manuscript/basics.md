@@ -14,7 +14,7 @@ In standard quantum mechanics, there is a habit to think of the wavefunction as 
 
 In Bohmian mechanics, this is not true. Wavefunctions are functions on the configuration space of the particles. For the Schrödinger equation, they must be differentiable in order to provide the velocity field for the Bohmian particles.
 
-So we need to be comfortabl with `\psi(q_1, q_2, q_3, \ldots, q_n)`$ as something fundamental. The Fourier transform of `\psi`$ may be helpful in solving the equations, but it is not relevant in the formulation of the theory. Ultimately, we want a velocity field on configuration space.  
+So we need to be comfortable with `\psi(q_1, q_2, q_3, \ldots, q_n)`$ as something fundamental. The Fourier transform of `\psi`$ may be helpful in solving the equations, but it is not relevant in the formulation of the theory. Ultimately, we want a velocity field on configuration space.  
 
 The wavefunctions are also elements of the usual Hilbert space of square-integrable wavefunctions. Much of the analysis of the theory relies on it. While presumably one could explore other functions, the analysis becomes less certain and there seems to be no physical reason to pursue it. 
 
