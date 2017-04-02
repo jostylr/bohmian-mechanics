@@ -1,6 +1,7 @@
 introduction.md
 a-gentle-introduction.md
 brief-formalism.md
+basics.md
 one-dimensional.md
 three-dimensions.md
 multiple-particles.md
