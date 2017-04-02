@@ -27,6 +27,7 @@ existence.md
 scattering.md
 tools.md
 trajectories.md
+newton.md
 background.md
 history.md
 status.md
