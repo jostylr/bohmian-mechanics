@@ -28,7 +28,7 @@ While this may seem similar to classical mecahnics where, say, the gravitational
 
 In Bohmian mechanics, there is no such clear separation from the start. Indeed, the full extent of the wavefunction cannot be approximated in any meaningful way in terms of subsystems.
 
-What is the key component, and ultimately is the source of the apparent collapse of the subssytem wavefunction, is that the environment serves as a localization for a subsystem, whenever it applies. That is, we get subsystems by doing a partial evaluation of the wavefunction. 
+What is the key component, and ultimately is the source of the apparent collapse of the subsystem wavefunction, is that the environment serves as a localization for a subsystem, whenever it applies. That is, we get subsystems by doing a partial evaluation of the wavefunction. 
 
 So in some of our considerations, we need to justify why we have a subsystem rather than how a system gets entangled. 
 
@@ -37,11 +37,18 @@ That is `\Psi`$, the universal wavefunction is preeminent and `\psi`$, the subsy
 
 ## Probability
 
-The probability of finding a configuration of a subsystem with wavefunction `\psi`$ is given by the density `|\psi|^2 (q) dq`$.  From this, all the results of standard quantum mechanics follows. 
+The probability of finding a configuration of a subsystem with wavefunction
+`\psi`$ is given by the density `|\psi|^2 (q) dq`$.  From this, all the
+results of standard quantum mechanics follows. 
 
-The important point of note is that this is not an assumption. This is a deduction based on typicality arguments. That is, for a typical configuration of the universe, an appropriate subsystem will have this property that we call the Quantum Equilibrium Hypothesis. 
+The important point of note is that this is not an assumption. This is a
+deduction based on typicality arguments. That is, for a typical configuration
+of the universe, an appropriate subsystem will have this property that we call
+the Quantum Equilibrium Hypothesis. 
 
-Typicality is measured with respect to the density `|\Psi|^2`$. This needs explaining as we do later. But for now, we take it as a basic assumption the QEH holds. 
+Typicality is measured with respect to the density `|\Psi|^2`$. This needs
+explaining as we do later. But for now, we take it as a basic assumption the
+QEH holds. 
 
 ## Operators
 
